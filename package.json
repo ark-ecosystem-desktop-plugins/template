@@ -1,0 +1,24 @@
+{
+  "name": "ark-desktop-NAME",
+  "version": "0.0.1",
+  "title": "TITLE",
+  "description": "DESCRIPTION",
+  "main": "src/index.js",
+  "author": "AUTHOR",
+  "license": "MIT",
+  "permissions": [
+  ],
+  "keywords": [
+    "ark",
+    "desktop-wallet",
+    "plugin"
+  ],
+  "homepage": "URL",
+  "repository": {
+    "type": "git",
+    "url": "URL"
+  },
+  "bugs": {
+    "url": "URL"
+  }
+}
