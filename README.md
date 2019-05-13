@@ -12,7 +12,7 @@ Description of your plugin
 ## Credits
 
 - [Your Name](URL)
-- [All Contributors](../../../../contributors)
+- [All Contributors](../../contributors)
 
 ## License
 
