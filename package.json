@@ -8,6 +8,8 @@
   "license": "MIT",
   "permissions": [
   ],
+  "urls": [
+  ]
   "keywords": [
     "ark",
     "desktop-wallet",
