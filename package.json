@@ -1,17 +1,17 @@
 {
   "name": "NAME",
-  "title": "TITLE",
   "version": "0.0.1",
   "description": "DESCRIPTION",
-  "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/logo.png",
   "main": "src/index.js",
   "author": "AUTHOR",
   "license": "MIT",
-  "permissions": [
-    "THEMES"
-  ],
   "desktop-wallet": {
+    "title": "TITLE",
     "categories": [],
+    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/logo.png",
+    "permissions": [
+      "THEMES"
+    ],
     "urls": [],
     "minVersion": "2.6"
   },
