@@ -10,10 +10,6 @@
   "permissions": [
     "THEMES"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/template.git"
-  },
   "desktop-wallet": {
     "categories": [],
     "urls": [],
@@ -33,6 +29,6 @@
   "homepage": "URL",
   "repository": {
     "type": "git",
-    "url": "URL"
+    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/template.git"
   }
 }
