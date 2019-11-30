@@ -4,7 +4,7 @@
   "description": "DESCRIPTION",
   "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/logo.png",
   "main": "src/index.js",
-  "author": "AUTHOR",
+  "author": "Author Name <author@ark.io>",
   "license": "MIT",
   "desktop-wallet": {
     "title": "TITLE",
@@ -21,7 +21,7 @@
     "plugin"
   ],
   "contributors": [
-    "Alex Barnsley <alex@ark.io>"
+    "Author Name <author@ark.io>"
   ],
   "bugs": {
     "url": "URL"
